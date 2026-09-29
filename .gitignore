@@ -1,0 +1,7 @@
+# Workspace-local Flutter SDK
+.tooling/
+
+# macOS / Xcode per-user state
+.DS_Store
+xcuserdata/
+*.xcuserstate
